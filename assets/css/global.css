@@ -1,9 +1,9 @@
-*{
-    font-family: "Roboto",sans-serif;
+* {
+    font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: #f6f8fc;
 }
 
@@ -22,6 +22,3 @@ body{
         border-radius: 1rem;
     }
 }
-
-
-
